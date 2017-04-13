@@ -12,7 +12,6 @@ For help with translations do a pull request with the changes that you made to t
 
 ### Contact Us ###
 
-* If you are interesting in helping us in any way you can join [unio devel](https://unio.io/cgi-bin/mailman/listinfo/dev) mailing list for discussions related to the development of the project.
+* If you are interesting in helping us in any way you can join [unio devel](https://www.4unio.com/cgi-bin/mailman/listinfo/dev) mailing list for discussions related to the development of the project.
 * For reporting issues with the code or wishes please use the project’s [issues page, here in github](https://github.com/unio-io/unio/issues).
-* For general discussions about the project please visit [subreddit](https://www.reddit.com/r/unio).
- * For IM you can join our Telegram groups [for UT users (and others until full)](https://t.me/joinchat/AAAAAAyrP8fPcgiopl4Xhw).
+ * For general discussions join our Telegram group [for UT users (and others until full)](https://t.me/joinchat/AAAAAAyrP8fPcgiopl4Xhw).
